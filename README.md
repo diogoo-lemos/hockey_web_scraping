@@ -11,7 +11,7 @@ O objetivo principal deste projeto é automatizar a extração das tabelas de cl
 - **Plantéis Detalhados:** Scraping direcionado para as páginas individuais de cada equipa para identificar os jogadores que compõem os respetivos plantéis.
 - **Integração com Tableau:** O ficheiro `Hockey.twb` permite visualizar os dados de forma interativa.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Linguagem:** Python 3
 * **Bibliotecas Python:** `pandas`, `requests`, `beautifulsoup4`, `openpyxl`
 * **Visualização de Dados:** Tableau 
